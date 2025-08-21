@@ -1,6 +1,6 @@
 # Welcome to my First Github Page!
 
-Hello, my name is Tyler and welcome to my repo!
+Hello, my name is Mishelle and welcome to my repo!
 
 This is a separate paragraph! Lorem ipsum!
 
